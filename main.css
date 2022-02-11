@@ -1,0 +1,26 @@
+body{
+  padding:0px;
+  margin:0px;
+  font-family:monospace;
+  background-color:#222;
+  color:#fff;
+  text-align:center;
+}
+table{
+  display:inline;
+
+}
+
+td{
+  font-size:1rem;
+  padding:10px;
+}
+ul li, ol li{
+  list-style: none;
+}
+.explain{
+  font-size:2rem;
+}
+.example{
+  font-size:1.3rem;
+}
